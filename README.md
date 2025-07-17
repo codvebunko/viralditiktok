@@ -1,2 +1,1 @@
-# viralditiktok
-viralditiktok
+# [viralditiktok](https://viralditiktok.pages.dev)
